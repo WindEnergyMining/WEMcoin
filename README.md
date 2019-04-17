@@ -14,5 +14,3 @@ PRICE OF A KWH, WHEN PAYING IN WEMCOIN, IS EUR 0.10 (USD 0.11)
 TO DATE, YOU CAN BUY WEMCOIN ON FORKDELTA
 
 WEMcoin price will depend on the exchange rates
-
-Using the advantages of WEMcoin token, you support the development of renewable energy and green mining!
